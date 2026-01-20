@@ -1,0 +1,7 @@
+{
+  "name": "Copy of KhalidAI - Smart English Tutor",
+  "description": "A comprehensive AI-powered English learning platform featuring real-time conversation with specialized tutors: Mohd Khalid, Mohd Umar, and Gazala.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
